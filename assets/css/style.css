@@ -1,9 +1,9 @@
 :root {
-  --main-bg-color: #FBF7F4;
-  --main-txt-color: #5A3A20;
-  --bold-bg-color: #E38678;
-  --secondary-bg-color: #92B5A9;
-  --tertiary-bg-color: #EEB3AA;
+  --main-bg-color: #c6c6c6
+  --main-txt-color: #262626;
+  --bold-bg-color: #2f8eb6;
+  --secondary-bg-color: #bea27f;
+  --tertiary-bg-color: #a9acad;
 }
 
 /* GENERAL */
