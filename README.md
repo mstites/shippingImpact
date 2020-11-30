@@ -5,6 +5,10 @@ Website final presentation for biology course about the environmental impact of 
 * Put in sources
 ### Informational
 * Would be great to get some data on the impact of last mile shipping, how much does this account for in the shipping process?
+* Finish up packaging page -> China, Recycling, What can be done?
+* Last Mile -> Impact of Last Mile Delivery, General Shipping
+* Home page
+* Amazon -> Amazon's Climate Pledge
 #### Presentation
 * Make methods into a nice flow chart. Venn diagram? Categorization? chart of what is best?
 
