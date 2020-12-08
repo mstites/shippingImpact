@@ -8,6 +8,5 @@ Website final presentation for biology course about the environmental impact of 
 
 ### Design
 * Icon
-* Favicon
 * Cover image
 * Make nav bar not sticky
